@@ -36,13 +36,23 @@ So far, this project includes:
 ## Repository Structure
 
 ```text
-jeepbot/
+148-jeepbot-team-01/
+├── .gitignore
 ├── README.md
 ├── requirements.txt
-├── setup/
 ├── docs/
-├── src/
-├── scripts/
-├── data/
-├── images/
-└── archive/
+│   ├── project_overview.md
+│   ├── hardware.md
+│   ├── software_architecture.md
+│   ├── troubleshooting.md
+│   ├── system_schematic.md
+│   └── system_schematic.png
+├── setup/
+│   ├── raspberry_pi_setup.md
+│   └── depthai_setup.md
+└── src/
+    ├── main.py
+    └── camera/
+        ├── cam_test.py
+        ├── depth_view.py
+        └── dual_oakd_test.py
