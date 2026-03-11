@@ -31,7 +31,7 @@ So far, this project includes:
 
 ## System Schematic
 
-![Jeepbot System Schematic](docs/system_schematic.png)
+![Jeepbot System Schematic](docs/system_schematic.jpeg)
 
 ## Repository Structure
 
