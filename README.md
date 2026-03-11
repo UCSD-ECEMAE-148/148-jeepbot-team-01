@@ -29,6 +29,10 @@ So far, this project includes:
 - Raspberry Pi OS
 - Virtual environment (`venv`)
 
+## System Schematic
+
+![Jeepbot System Schematic](docs/system_schematic.png)
+
 ## Repository Structure
 
 ```text
